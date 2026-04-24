@@ -1,0 +1,4 @@
+".env" 
+"faiss_index.bin" 
+"chunks_metadata.pkl" 
+"venv/" 

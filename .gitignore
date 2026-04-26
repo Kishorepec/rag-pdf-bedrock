@@ -1,4 +1,7 @@
-".env" 
-"faiss_index.bin" 
-"chunks_metadata.pkl" 
-"venv/" 
+.env
+venv/
+faiss_index.bin
+chunks_metadata.pkl
+__pycache__/
+*.pyc
+.DS_Store

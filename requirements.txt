@@ -1,0 +1,10 @@
+boto3
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+pypdf
+faiss-cpu
+streamlit
+python-dotenv
+numpy
